@@ -5,10 +5,15 @@
   height: 100%;
 }
 
-.display-cart{
+.carts{
   display: flex;
   height: auto;
   flex-direction: row;
+}
+
+.display-cart{
+  display: flex;
+  flex-direction: column;
 }
 
 .selected{
@@ -47,7 +52,7 @@
 .quantity{
   display: flex;
   flex-direction: row;
-  margin: 2rem 13rem;
+  margin-top: 2rem;
 }
 
 .btn-temp{

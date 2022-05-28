@@ -8,7 +8,7 @@ import "./products.css";
 import Input from "../../Components/Input";
 
 const Products = () => {
-  const cart = useSelector((state) => state);
+  const [cart] = useSelector((state) => state);
   console.log(cart);
   const dispatch = useDispatch();
   const [search, setSearch] = useState("");
