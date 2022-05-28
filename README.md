@@ -4,9 +4,8 @@ We bring you a mobile app for shopping that oftenly wasting much of your times.
 
 # Getting Started
     To running this app in local
-      - Clone this repo with git clone https://github.com/yuliamassel/React-App.git 
+      - Clone this repo with git clone https://github.com/yuliamassel/TokoKu.git
       - npm install to install all reqruired dependencies
-      - Create a .env  file 
       - node index.js or npm start to start the local server
 
   
