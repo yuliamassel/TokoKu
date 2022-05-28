@@ -1,0 +1,19 @@
+.succes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-back{
+    background: #6379f4;
+    color: #ffffff;
+    font-weight: 500;
+    margin-right: 1rem;
+    width: 180px;
+    height: 36px;
+    border: none;
+    border-radius: 12px;
+    outline: none;
+    cursor: pointer;
+}
